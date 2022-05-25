@@ -7,7 +7,7 @@ public class Game {
     public void play() {
 
         System.out.println("Welcome to Questworld! Distribute skill points.");
-        
+
 
 
 
